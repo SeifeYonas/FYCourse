@@ -1,0 +1,103 @@
+.logo {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 70px;
+  float: left;
+}
+
+#navbarbuttoncolors {
+  color: white;
+}
+
+#dropbutton {
+  height: 50px;
+  width: 120px;
+}
+
+.dropbuttoncolor {
+  color: white;
+  background-color: #ffa500;
+}
+
+#searchbar {
+  padding-left: 15px;
+}
+
+#buttoncolor {
+  color: white;
+}
+
+#navBarSearchForm {
+  height: 51px !important;
+  width: 750px !important;
+}
+
+#centertopicssearch {
+  padding-left: 570px;
+}
+.title {
+  font-size: 50px;
+}
+
+#writeareview {
+  padding-left: 800px;
+}
+
+#sizeofjumbobuttons {
+  color: black;
+  background-color: white;
+  height: 80px;
+  width: 180px;
+}
+
+#askaquestion {
+  padding-left: 100px;
+}
+
+.laptop {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#jumboheight {
+  height: 900px;
+}
+
+.features {
+  color: white;
+  text-align: center;
+  font-size: 80px;
+}
+
+#topcoursescards {
+  justify-content: center;
+  align-items: center;
+}
+
+#topcoursepics {
+  padding-left: 58px;
+  width: 260px;
+  height: 220px;
+}
+
+#alignicons {
+  margin-left: 90px;
+}
+
+#bottomtronsize {
+  height: 200px;
+}
+
+#linked {
+  width: 10%;
+}
+
+
+#gallery-text-left {
+  float: right;
+  width: 38%;
+}
+

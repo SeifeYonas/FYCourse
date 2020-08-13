@@ -1,0 +1,115 @@
+#pushairight {
+  padding-left: 10px;
+}
+
+.ai-robot {
+  width: 345px;
+  height: 330px;
+}
+
+#coursetitle {
+  color: white;
+}
+
+.checked {
+  color: orange;
+}
+
+.starrsize {
+  font-size: 30px;
+}
+
+#pushcardright {
+  padding-left: 600px;
+}
+
+#coursedetails {
+  padding-left: 15px;
+}
+
+#aboutparadiv {
+  width: 675px;
+  padding-left: 0px;
+  font-size: 20;
+}
+
+#pushprofessorright {
+  padding-left: 15px;
+}
+
+#pushincludedright {
+  padding-left: 20px;
+}
+
+#includedpad {
+  padding-left: 60px;
+}
+
+#writereviewdiv {
+  padding-left: 750px;
+}
+
+#writereviewbutton {
+  background-color: white;
+  font-weight: bold;
+  font-size: 17px;
+  width: 160px;
+  color: #4d4dff;
+  border-color: #4d4dff;
+}
+
+.container {
+  padding-left: 20px;
+}
+
+#roundprofilepic {
+  border-radius: 50%;
+}
+
+#userdescript {
+  padding-left: 30px;
+}
+
+#coursetakername {
+  padding-left: 20px;
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+#verifiedtaker {
+  padding-top: 20px;
+  padding-left: 25px;
+}
+
+#coursetakerbut {
+  background-color: white;
+  font-size: 14px;
+  width: 170px;
+}
+
+#jobdescrip {
+  padding-left: 20px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.goodsection {
+  padding-left: 150px;
+}
+
+#reviewsecbody {
+  width: 675px;
+}
+
+.badsection {
+  padding-left: 150px;
+}
+
+.overallsection {
+  padding-left: 150px;
+}
+
+#starsize {
+  font-size: 40px;
+}
