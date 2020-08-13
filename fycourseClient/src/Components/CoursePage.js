@@ -24,7 +24,7 @@ function CoursePage() {
             <br />
             <br />
             <h2 id="coursetitle">
-              Artificial Intelligence A-Z™: Learn How To Build An AI.
+              Artificial Intelligence A-Z™: Learn How To Build An AI
             </h2>
             <div className="starrsize">
               <span className="checked">4.7 </span>
